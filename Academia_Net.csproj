@@ -45,14 +45,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aula02\Exercicio02e03\ContaBancaria.cs" />
-    <Compile Include="Aula02\Exercicio02e03\ContaCorrente.cs" />
-    <Compile Include="Aula02\Exercicio02e03\ContaInvestimento.cs" />
-    <Compile Include="Aula02\Exercicio02e03\ContaPoupanca.cs" />
-    <Compile Include="Aula02\Exercicio04\Circulo.cs" />
-    <Compile Include="Aula02\Exercicio04\FormaGeometrica.cs" />
-    <Compile Include="Aula02\Exercicio04\Retangulo.cs" />
-    <Compile Include="Aula02\Exercicio04\Triangulo.cs" />
+    <Compile Include="Aula02\Exercicio02\ContaBancaria.cs" />
+    <Compile Include="Aula02\Exercicio02\ContaCorrente.cs" />
+    <Compile Include="Aula02\Exercicio02\ContaInvestimento.cs" />
+    <Compile Include="Aula02\Exercicio02\ContaPoupanca.cs" />
     <Compile Include="Aula02\Exercício01\Animal.cs" />
     <Compile Include="Aula02\Exercício01\AnimalBase.cs" />
     <Compile Include="Aula02\Exercício01\Cachorro.cs" />
