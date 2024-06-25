@@ -1,0 +1,7 @@
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.AssemblyReference.cache
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+C:\Users\Raaia\source\repos\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb

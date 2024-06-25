@@ -1,0 +1,7 @@
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe.config
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\bin\Debug\MediaAluno.exe
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\bin\Debug\MediaAluno.pdb
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\obj\Debug\MediaAlunoNet.csproj.AssemblyReference.cache
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\obj\Debug\MediaAlunoNet.csproj.CoreCompileInputs.cache
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.exe
+C:\Users\Raaia\source\repos\MediaAluno\MediaAluno\obj\Debug\MediaAluno.pdb
