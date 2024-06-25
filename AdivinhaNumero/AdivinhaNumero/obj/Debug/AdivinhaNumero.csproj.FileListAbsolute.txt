@@ -1,0 +1,7 @@
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\bin\Debug\AdivinhaNumero.exe.config
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\bin\Debug\AdivinhaNumero.exe
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\bin\Debug\AdivinhaNumero.pdb
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\obj\Debug\AdivinhaNumero.csproj.AssemblyReference.cache
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\obj\Debug\AdivinhaNumero.csproj.CoreCompileInputs.cache
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\obj\Debug\AdivinhaNumero.exe
+C:\Users\Raaia\source\repos\Academia_Net\AdivinhaNumero\AdivinhaNumero\obj\Debug\AdivinhaNumero.pdb
